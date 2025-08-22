@@ -1,7 +1,5 @@
 ## Generative AI Assets Catalog
 
-[:point_right: **Click here to access the _Generative AI Assets Catalog** :point_left:](https://gen-ai-atlas.d2fpo0i5kstaiq.amplifyapp.com)
-
 The **Generative AI Assets Catalog** is an organized repository designed for individuals seeking to explore the newest content released by AWS on Generative AI. The Assets Catalog serves as a publicly accessible directory that gathers various resources related to Generative AI, including Blog Posts, Code Samples, Tutorials, Videos, and Workshops, all published on official AWS channels. To facilitate a seamless exploration experience, the Assets Catalog offers a search bar and a comprehensive set of filters, empowering users to quickly find relevant assets for a specific use case of interest. Whether you’re a beginner or an experienced practitioner, the Generative AI Assets Catalog presents a curated selection of content to support your journey.
 
 ![Generative AI Assets Catalog](public/image.png)
