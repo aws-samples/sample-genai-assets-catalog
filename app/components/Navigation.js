@@ -3,7 +3,7 @@ import SideNavigation from "@cloudscape-design/components/side-navigation";
 import { useLocation, useNavigate } from "react-router-dom";
 import { useCheckMobileScreen } from "./utils"
 
-export const navHeader = { text: 'Generative AI Atlas', href: '/' };
+export const navHeader = { text: 'Generative AI Assets Catalog', href: '/' };
 export const navItems = [
   {
     type: 'section',

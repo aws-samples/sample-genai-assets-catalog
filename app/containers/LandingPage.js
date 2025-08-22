@@ -302,10 +302,10 @@ const CardsContent = () => {
                   getNumberOfVisibleItems(filteredItemsCount, paginationProps.currentPageIndex, paginationProps.pagesCount, preferences.pageSize, resources.length)
                 }
               >
-                Generative AI Atlas
+                Generative AI Assets Catalog
               </Header>
               <text>
-                The Generative AI Atlas is an organized repository that gathers the latest resources related to Generative AI published on official AWS channels, including Blog Posts, Code Samples, Tutorials, Videos, and Workshops. Whether you’re a beginner or an experienced practitioner, the Generative AI Atlas presents a curated selection of content to support your journey.
+                The Generative AI Assets Catalog is an organized repository that gathers the latest resources related to Generative AI published on official AWS channels, including Blog Posts, Code Samples, Tutorials, Videos, and Workshops. Whether you’re a beginner or an experienced practitioner, the Generative AI Assets Catalog presents a curated selection of content to support your journey.
               </text>
               <img src={repoImage} alt="" width='100%'/>
             </SpaceBetween>

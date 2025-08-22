@@ -8,7 +8,7 @@ const AppRouter = props => {
         setBreadcrumbsItems
       ] = React.useState([
         {
-            text: 'Gen AI Atlas',
+            text: 'Gen AI Assets Catalog',
             href: '/'
         }]);
 
